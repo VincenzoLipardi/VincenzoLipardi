@@ -1,4 +1,4 @@
-## Hi there 👋
+## In this repository you can find the code of all my research projects.
 
 <!--
 **VincenzoLipardi/VincenzoLipardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
